@@ -64,8 +64,8 @@ const moreFeatures = [
   },
   {
     icon: MessageCircle,
-    title: "Nota via WhatsApp",
-    desc: "Kirim nota digital langsung ke WhatsApp pelanggan. Hemat kertas, lebih praktis, dan terlihat profesional.",
+    title: "Cetak Nota & WhatsApp",
+    desc: "Cetak struk fisik via printer thermal atau kirim nota digital langsung ke WhatsApp pelanggan dengan satu klik.",
   },
 ];
 

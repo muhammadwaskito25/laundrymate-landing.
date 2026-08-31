@@ -91,7 +91,7 @@ export default function Pricing() {
                   <ul className="space-y-4">
                     {[
                       "Smart POS (Cuci, Kering, Drop-off)",
-                      "Kirim Nota via WhatsApp",
+                      "Unlimited Transaksi, Cetak Nota & WA",
                       "Sistem Absensi PIN Kasir",
                       "Split Payment & Dukungan QRIS",
                       "Mode Offline-First Auto Sync",
