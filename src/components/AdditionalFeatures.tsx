@@ -11,6 +11,7 @@ import {
   Timer,
   Receipt,
   Smartphone,
+  MessageCircle,
 } from "lucide-react";
 import Image from "next/image";
 
@@ -62,9 +63,9 @@ const moreFeatures = [
     desc: "Akses dari tablet, HP, atau laptop. Tampilan responsif di semua device.",
   },
   {
-    icon: Package,
-    title: "Manajemen Add-on",
-    desc: "Tambah layanan sabun, softener, pewangi sebagai add-on dinamis.",
+    icon: MessageCircle,
+    title: "Nota via WhatsApp",
+    desc: "Kirim nota digital langsung ke WhatsApp pelanggan. Hemat kertas, lebih praktis, dan terlihat profesional.",
   },
 ];
 
