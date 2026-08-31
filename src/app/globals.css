@@ -190,6 +190,8 @@ body {
   filter: blur(80px);
   opacity: 0.4;
   pointer-events: none;
+  will-change: transform;
+  transform: translateZ(0);
 }
 
 /* Dot pattern overlay */
